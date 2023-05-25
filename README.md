@@ -9,16 +9,16 @@
 
 <samp>
   
-- 👨🏽‍💻 I’m a Pentest/Red TEAM Enthusiast
+- 👨🏽‍💻 Je suis un passionné de Pentest/Red TEAM.
 
 
 
-- 🎲 Interests : CTF, researching and learning about cybersecurity and ethical hacking.
+- 🎲 Intérêts : CTF, recherche et apprentissage sur la cybersécurité et le hacking éthique.
 
  
 
 
-- ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+- ⚡ Manger 🍔 Dormir 😴 Hack 💻 Répéter 🔁
   
 
 
