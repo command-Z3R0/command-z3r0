@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://command-z3r0.github.io">
-    <img src="commandz3r0.png" style="max-width: 100%; height: auto;" alt="Descripción de la imagen" />
+    <img src="commanderz3r0.png" style="max-width: 100%; height: auto;" alt="Descripción de la imagen" />
   </a>
 </p>
 
