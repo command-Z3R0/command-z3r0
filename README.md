@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://command-z3r0.github.io">
-    <img src="Command.png" style="max-width: 100%; height: auto;" alt="Descripción de la imagen" />
+    <img src="commandz3r0.png" style="max-width: 100%; height: auto;" alt="Descripción de la imagen" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 ## 💬 Social Links
 
 [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://command-z3r0.github.io)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/command.z3r0)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/command_Z3R0)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/commander.z3r0)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/commander_Z3R0)
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=99e836)](https://github.com/command-Z3R0)
 </samp>
